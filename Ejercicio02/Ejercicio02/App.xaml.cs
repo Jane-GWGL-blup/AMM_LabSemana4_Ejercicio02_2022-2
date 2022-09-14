@@ -11,7 +11,7 @@ namespace Ejercicio02
             InitializeComponent();
 
             //MainPage = new MainPage();
-            //Para usar las llamadas con la palabra reservada Navigation
+            //Para usar las llamadas con la palabra reservada Navigation.
             MainPage = new NavigationPage(new MainPage());
         }
 

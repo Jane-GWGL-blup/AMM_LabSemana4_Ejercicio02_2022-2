@@ -29,12 +29,12 @@ namespace Ejercicio02
             };
             Item5.Clicked += async (sender, e) =>
             {
-                //Call Popup
+                //Call Popup.
                 await Navigation.PushAsync(new ModalPage1());
             };
             Item6.Clicked += async (sender, e) =>
             {
-                //Call Popup
+                //Call Popup.
                 var answer = await DisplayAlert("Question?",
                     "Would you like to play a game", "Yes","No");
                 Debug.WriteLine("Answer: " + answer);

@@ -16,7 +16,6 @@ namespace Ejercicio02
         {
             InitializeComponent();
         }
-
         async void OnPreviousPageButtonClicked(Object sender, EventArgs e)
         {
             await Navigation.PopAsync();

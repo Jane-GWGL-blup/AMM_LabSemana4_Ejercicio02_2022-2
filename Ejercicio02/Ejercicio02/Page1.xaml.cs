@@ -21,7 +21,6 @@ namespace Ejercicio02
                 await Navigation.PopAsync();
             };
         }
-
         async void OnNextPageButtonClicked(object sender, EventArgs e)
              { 
                 await Navigation.PushAsync(new Page2());

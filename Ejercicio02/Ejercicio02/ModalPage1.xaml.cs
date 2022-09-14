@@ -12,7 +12,7 @@ namespace Ejercicio02
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ModalPage1 : ContentPage
     {
-        //Código para cerrar la ventana actual
+        //Código para cerrar la ventana actual.
         public ModalPage1()
         {
             InitializeComponent();

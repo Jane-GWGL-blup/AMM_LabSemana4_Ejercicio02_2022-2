@@ -14,6 +14,7 @@
                      HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage>
+    
     <ContentPage>
         <StackLayout>
             <Label Text="Green" FontSize="Medium" HorizontalOptions="Center"/>
@@ -21,6 +22,7 @@
                      HorizontalOptions="Center" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage>
+    
     <ContentPage>
         <StackLayout>
             <Label Text="Blue" FontSize="Medium" HorizontalOptions="Center"/>

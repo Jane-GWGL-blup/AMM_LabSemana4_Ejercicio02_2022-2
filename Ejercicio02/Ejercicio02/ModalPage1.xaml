@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Ejercicio02.ModalPage1">
+    
     <ContentPage.Content>
         <StackLayout>
             <Label Text="Primer formulario"
@@ -10,4 +11,5 @@
             <Button Text="Close Popup" x:Name="btnClosePopup"/>
         </StackLayout>
     </ContentPage.Content>
+    
 </ContentPage>

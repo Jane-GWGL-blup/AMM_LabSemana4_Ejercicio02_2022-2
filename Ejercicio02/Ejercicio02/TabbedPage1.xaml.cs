@@ -10,7 +10,7 @@ using Xamarin.Forms.Xaml;
 namespace Ejercicio02
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    //Nos hará volver al menú principal
+    //Nos hará volver al menú principal.
     public partial class TabbedPage1 : TabbedPage
     {
         public TabbedPage1()
